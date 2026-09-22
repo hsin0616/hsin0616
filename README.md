@@ -1,6 +1,6 @@
 # Hi, I'm Hsin 👋
 
-Master's student interested in AI Engineering, Software Engineering, Computer Vision, and AI Agent systems.
+Master's student interested in AI Engineering, Software Engineering, Computer Vision, and AI Agent systems. 
 I enjoy building practical AI applications, developer tools, and automation systems.
 
 ## 🔭 Currently Working On
