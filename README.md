@@ -1,10 +1,8 @@
 # Hi, I'm Hsin 👋
 
-Master's student interested in AI Engineering, Software Engineering,
-Computer Vision, and AI Agent systems.
+Master's student interested in AI Engineering, Software Engineering, Computer Vision, and AI Agent systems.
 
-I enjoy building practical AI applications, developer tools,
-and automation systems.
+I enjoy building practical AI applications, developer tools, and automation systems.
 
 ## 🔭 Currently Working On
 
@@ -49,10 +47,3 @@ MCP | AI Agents | Tool Calling | Retrieval Systems
 
 Tools:
 Git | GitHub | Docker
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Computer Architecture
-- C++
-- AI Agent architectures
