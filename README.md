@@ -8,14 +8,11 @@ I enjoy building practical AI applications, developer tools, and automation syst
 
 - Medical image restoration using diffusion models
 - Building MCP servers and exploring AI agent tool integration
-- RAG and persistent-memory systems
 - C++ / Data Structures & Algorithms
 
 ## 🧠 Research
 
-Working on medical image restoration,
-with a focus on AR-PAM → OR-PAM reconstruction
-using diffusion-based methods.
+Working on medical image restoration, with a focus on reconstruction using diffusion-based methods.
 
 ## 🚀 Featured Projects
 
